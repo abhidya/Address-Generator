@@ -7,10 +7,6 @@ from fng import FakeNameGenerator
 boo = True
 person= FakeNameGenerator('random', 'us', 'us')
 requests.packages.urllib3.disable_warnings()
-prio = {"status":1,"redirect":"http:\/\/brisk.hvnln.com\/loser"}
-print(prio['redirect'])
-print(prio.json()['redirect'])
-input("h")
 while boo:
     try:
         global use
