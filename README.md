@@ -1,6 +1,8 @@
 # Address-Generator
 Returns a real address from Zillow.com or a fake address from Fakenamegenerator.com
 
+The code requires the included fng script,BeautifulSoup, and Requests.
+
 To use this with your program you need the file in the root project folder and in your program header​
 Code:
 
